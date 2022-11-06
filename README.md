@@ -49,6 +49,6 @@ i) You should install these tools in your system before you use this automated t
 - linkfinder
 - uro
 
-ii) Put the folder named **automation_embedded_tools** in your system desktop. Install 3 tools ie. dirserach, linkfinder and nuclei-templates inside **automation_embedded_tools** folder. All the tools can be found on github
+ii) Create one folder named **automation_embedded_tools** in your desktop. Put the folder named **automation_embedded_tools** in your system desktop. Install 3 tools ie. dirserach, linkfinder and nuclei-templates inside **automation_embedded_tools** folder. All the tools can be found on github
 iii) Finish. Thank You :)
 iv ) Any Queries: shubhdhungana@gmail.com
